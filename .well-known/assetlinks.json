@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "com.example.truyenchug5",
+      "package_name": "com.thuongdinh.truyenchuhay",
+      "sha256_cert_fingerprints":
+      ["B3:39:87:1C:50:E3:CC:C8:FA:A7:DB:66:A7:52:13:F6:6C:E3:C2:04:13:D5:86:00:4C:AC:F9:99:4B:D1:20:35"]
+    }
+  }]
+  
